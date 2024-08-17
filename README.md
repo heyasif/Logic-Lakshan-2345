@@ -12,7 +12,10 @@ Frontend: https://quizme-teal.vercel.app/
 Backend: https://logic-lakshan-2345.onrender.com/
 
 ### Directory Structure
-logic-lakshan-2345 ├─ backend/ ├─ frontend/
+
+logic-lakshan-2345
+ ├─ backend/ 
+ ├─ frontend/
 
 ### Video Walkthrough of the project
 https://drive.google.com/file/d/1Z9j_ybn6fuU40asOGoF7BCqlozjTTEHi/view?usp=drive_link
@@ -82,7 +85,7 @@ npm start
 ### Credentials
  Credentials for admin
 ## UserName:- admin@gmail.com
-## Password:- admin123
+## Password:- admin
 
 ### Team Members
 - Nidhi <a href="https://github.com/Nidhis2608" alt="...">Github Profile</a>
